@@ -72,6 +72,9 @@ ComApiVue/
 
 This project is for educational purposes.
 
----
-
+```
 **Made with Vue 3 &
+```
+Sample Image of what it look like
+![..................](ComApiSampleImg.png)
+```
