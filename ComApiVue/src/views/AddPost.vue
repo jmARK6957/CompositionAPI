@@ -1,8 +1,9 @@
 <script setup>
+import Wrapper from '@/components/Wrapper.vue';
 </script>
 
 <template>
-    <div class="wrapper">
+    <Wrapper>
         <form>
             <h3>Add a New Post</h3>
             <div>
@@ -17,25 +18,14 @@
                 <button type="submit">Add</button>
             </div>
         </form>
-    </div>
+    </Wrapper>
 </template>
 
 
 <style lang="scss" scoped>
-.wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem;
-  min-height: 100vh;
-  background-color: #f5f7fa;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
   form {
-    background: #ffffff;
+    /* Remove background, border-radius, and box-shadow */
     padding: 2rem 2.5rem;
-    border-radius: 10px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 500px;
 
@@ -88,5 +78,4 @@
       }
     }
   }
-}
-</style>  
+</style>
