@@ -6,98 +6,98 @@ const posts = [
   {
     "userId": 1,
     "id": 1,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "title": "To be or not to be responsible: Choosing to avoid responsibility",
+    "body": "Because there are obligations,\npeople avoid consequences by escaping duties,\nsome blame others instead of doing their part,\nwe all face situations like this, yet someone must still do the work."
   },
   {
     "userId": 1,
     "id": 2,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "Who is this person?",
+    "body": "In the timeline of life,\nsome follow blindly, others suffer in silence,\nthere are those who fake kindness but only hurt people,\nwhy do some people just cause problems and never offer solutions?"
   },
   {
     "userId": 1,
     "id": 3,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "title": "Complaints and burdens: Always falling on me",
+    "body": "Even when I'm fair, I'm still blamed,\npeople expect perfection and always want more,\nwhy am I the one accused or pressured?\nI carry hate, work hard, and still it's not enough."
   },
   {
     "userId": 1,
     "id": 4,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "eum et est occaecati",
-    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    "title": "Why does everything fall on me?",
+    "body": "I’m often forced to accept tasks others reject,\nI try to be responsible, but get blamed when things go wrong,\npeople don’t understand the effort it takes,\nand yet, they expect me to fix everything."
   },
   {
     "userId": 1,
     "id": 5,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    "title": "Frustration and anger",
+    "body": "I’m tired of apologizing and doing everything,\nothers take advantage while I stay quiet,\nwhy do I always have to fix their mistakes?\nThe pain and responsibility are too much."
   },
   {
     "userId": 1,
     "id": 6,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "dolorem eum magni eos aperiam quia",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    "title": "Suffering in silence",
+    "body": "My body is exhausted and my mind tired,\nwe try to stay strong even when hurting inside,\nwe get blamed and misunderstood,\nbut still we carry on with the pain and the work."
   },
   {
     "userId": 1,
     "id": 7,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "magnam facilis autem",
-    "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+    "title": "Why is it always difficult?",
+    "body": "Life keeps throwing problems our way,\nsome people act like they care, but don’t really help,\nand when trouble comes, they disappear,\nwe’re left to deal with it alone again."
   },
   {
     "userId": 1,
     "id": 8,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "dolorem dolore est ipsam",
-    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+    "title": "Pain behind the smile",
+    "body": "We try to look strong on the outside,\nbut our hearts are tired from carrying pain,\nevery day we hide what we feel,\nand yet, life keeps challenging us more."
   },
   {
     "userId": 1,
     "id": 9,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "nesciunt iure omnis dolorem tempora et accusantium",
-    "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
+    "title": "Legal problems, temporary fixes, and frustrations",
+    "body": "People know what’s right, but still ignore it,\nwe're promised change but get the same results,\ntemporary solutions just delay real progress,\nand we suffer the consequences."
   },
   {
     "userId": 1,
     "id": 10,
-    "name": "User One",
+    "name": "Alfred Orapa",
     "date": "2025-09-03",
-    "title": "optio molestias id quia eum",
-    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+    "title": "Annoyances and mistakes we endure",
+    "body": "We deal with poor service and wrong decisions,\nwe're forced to stay silent when things go bad,\nwe sit through the errors,\nand no one is held accountable."
   },
   {
     "userId": 2,
     "id": 11,
-    "name": "User Two",
+    "name": "Althea Bonior",
     "date": "2025-09-03",
-    "title": "et ea vero quia laudantium autem",
-    "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+    "title": "Recognizing and praising the good",
+    "body": "Some people still care and do what’s right,\nwe see kindness and honesty in them,\nthey help even when no one’s watching,\nand that gives us hope for the community."
   },
   {
     "userId": 2,
     "id": 12,
-    "name": "User Two",
+    "name": "Althea Bonior",
     "date": "2025-09-03",
-    "title": "in quibusdam tempore odit est dolorem",
-    "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
+    "title": "Old problems still not solved",
+    "body": "These issues have been around for a long time,\nand yet, no real solution has been done,\nit’s frustrating when no one listens,\neven when the problems are clear and serious."
   }
 ]
 </script>
