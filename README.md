@@ -77,5 +77,5 @@ This project is for educational purposes.
 ```
 Sample Image of what it look like
 ![..................](ComApiSampleImg.png)
-![alt text](addpost.png)
-```
+## Sample Image for Activity 5
+![alt text](activity5-1.png)
