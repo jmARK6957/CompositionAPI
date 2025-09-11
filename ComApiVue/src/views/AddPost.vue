@@ -15,7 +15,7 @@ import Wrapper from '@/components/Wrapper.vue';
                 <textarea rows="5"></textarea>
             </div>
             <div>
-                <button type="submit">Add</button>
+                <button type="submit">Submit</button>
             </div>
         </form>
     </Wrapper>
