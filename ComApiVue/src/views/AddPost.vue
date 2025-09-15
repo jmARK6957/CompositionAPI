@@ -1,5 +1,15 @@
 <script setup>
+import { computed, reactive } from 'vue';
 import Wrapper from '@/components/Wrapper.vue';
+
+const post = reactive({
+  title: '',
+  body: ''
+});
+
+const isFormValid = computed(() => {
+  return post.title === '' || post.body === '';
+})
 </script>
 
 <template>
@@ -8,14 +18,14 @@ import Wrapper from '@/components/Wrapper.vue';
             <h3>Add a New Post</h3>
             <div>
                 <label>Post Title</label>
-                <input type="text"/>
+                <input type="text" v-model="post.title"/>
             </div>
             <div>
                 <label>Post Content</label>
-                <textarea rows="5"></textarea>
+                <textarea rows="5" v-model="post.body"></textarea>
             </div>
             <div>
-                <button type="submit">Submit</button>
+                <button :disabled="isFormValid">Submit</button>
             </div>
         </form>
     </Wrapper>
@@ -75,6 +85,10 @@ import Wrapper from '@/components/Wrapper.vue';
         &:hover {
           background-color: #0056b3;
         }
+      }
+      button:disabled {
+        background-color: #ccc;
+        cursor: not-allowed;
       }
     }
   }
