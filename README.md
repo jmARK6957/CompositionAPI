@@ -79,3 +79,6 @@ Sample Image of what it look like
 ![..................](ComApiSampleImg.png)
 ## Sample Image for Activity 5
 ![alt text](activity5-1.png)
+
+### Sample Image for Activity 6 vue router and emit 
+![alt text](activity6_router_emit.png)
