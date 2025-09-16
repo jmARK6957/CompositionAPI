@@ -91,4 +91,4 @@ This project is for educational purposes.
 
 ### Sample Image for Activity 7 From Pinia to Pinia Getters
 
-![alt text](Activity7.png)
+![alt text](Activity7-1.png)

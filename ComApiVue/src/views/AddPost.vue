@@ -1,6 +1,12 @@
 <script setup>
 import { computed, reactive } from 'vue';
+import { usePostsStore } from '@/stores/posts';
+import { useRouter } from 'vue-router';
 import Wrapper from '@/components/Wrapper.vue';
+
+const postStore = usePostsStore();
+
+const router = useRouter();
 
 const post = reactive({
   title: '',
@@ -9,12 +15,17 @@ const post = reactive({
 
 const isFormValid = computed(() => {
   return post.title === '' || post.body === '';
-})
+});
+
+const submit = () => {
+  postStore.addPost(post)
+  router.push({ name: 'home'});
+}
 </script>
 
 <template>
     <Wrapper>
-        <form>
+        <form @submit.prevent="submit">
             <h3>Add a New Post</h3>
             <div>
                 <label>Post Title</label>
