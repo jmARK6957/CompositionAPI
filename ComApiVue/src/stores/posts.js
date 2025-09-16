@@ -122,7 +122,11 @@ actions: {
             date: new Date().toLocaleDateString(),
             saved: false
         })
-    }
+    },
+    // delete a post method
+    deletePost(id) {
+        this.posts = this.posts.filter((p) => p.id !== id)
+    },
 }
 })
     
