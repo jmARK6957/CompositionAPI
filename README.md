@@ -88,3 +88,7 @@ This project is for educational purposes.
 ### Sample Image for Activity 6 vue router and emit 
 
 ![alt text](activity6_router_emit.png)
+
+### Sample Image for Activity 7 From Pinia to Pinia Getters
+
+![alt text](Activity7.png)
