@@ -109,6 +109,9 @@ export const usePostsStore = defineStore('posts-store', {
 getters: {
     sorted() {
         return this.posts.sort((a, b) => new Date(b.date) - new Date(a.date))
+    },
+    save: (state) => {
+        return state.posts.filter((p) => p.saved).sort((a, b) => new Date(b.date) - new Date(a.date))
     }
 },
 // Methods
@@ -127,6 +130,10 @@ actions: {
     deletePost(id) {
         this.posts = this.posts.filter((p) => p.id !== id)
     },
+    savedPost(id) {
+        const post = this.posts.find((p) => p.id === id)
+        post.saved = !post.saved
+    }
 }
 })
     
