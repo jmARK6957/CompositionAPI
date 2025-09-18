@@ -1,5 +1,10 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import { usePostsStore } from '@/stores/posts';
+const postStore = usePostsStore();
+
+postStore.getPosts();
+
 </script>
 
 <template>
@@ -12,6 +17,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
   <RouterView />
 </template>
+
 
 <style lang="scss" scoped>
 header {
