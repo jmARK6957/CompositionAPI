@@ -1,3 +1,5 @@
+### Sample Screenshot
+
 ### Act 7 
 ![alt text](act_7.png)
 
