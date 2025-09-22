@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": "3",
-      "name": "Alfred Orapa",
+      "name": "John Doe",
       "date": "2025-09-03",
       "title": "Complaints and burdens: Always falling on me",
       "body": "Even when I'm fair, I'm still blamed,\npeople expect perfection and always want more,\nwhy am I the one accused or pressured?\nI carry hate, work hard, and still it's not enough.",
-      "saved": true
+      "saved": false
     },
     {
       "id": "4",
-      "name": "Alfred Orapa",
+      "name": "Rinata Sarmiento",
       "date": "2025-09-03",
       "title": "Why does everything fall on me?",
       "body": "I’m often forced to accept tasks others reject,\nI try to be responsible, but get blamed when things go wrong,\npeople don’t understand the effort it takes,\nand yet, they expect me to fix everything.",
@@ -18,7 +18,7 @@
     },
     {
       "id": "5",
-      "name": "Alfred Orapa",
+      "name": "Jane Smith",
       "date": "2025-09-03",
       "title": "Frustration and anger",
       "body": "I’m tired of apologizing and doing everything,\nothers take advantage while I stay quiet,\nwhy do I always have to fix their mistakes?\nThe pain and responsibility are too much.",
@@ -26,7 +26,7 @@
     },
     {
       "id": "6",
-      "name": "Alfred Orapa",
+      "name": "Jaoshua Orapa",
       "date": "2025-09-03",
       "title": "Suffering in silence",
       "body": "My body is exhausted and my mind tired,\nwe try to stay strong even when hurting inside,\nwe get blamed and misunderstood,\nbut still we carry on with the pain and the work.",
@@ -34,7 +34,7 @@
     },
     {
       "id": "7",
-      "name": "Alfred Orapa",
+      "name": "Althea Bonior",
       "date": "2025-09-03",
       "title": "Why is it always difficult?",
       "body": "Life keeps throwing problems our way,\nsome people act like they care, but don’t really help,\nand when trouble comes, they disappear,\nwe’re left to deal with it alone again.",
@@ -42,7 +42,7 @@
     },
     {
       "id": "8",
-      "name": "Alfred Orapa",
+      "name": "kiki koko",
       "date": "2025-09-03",
       "title": "Pain behind the smile",
       "body": "We try to look strong on the outside,\nbut our hearts are tired from carrying pain,\nevery day we hide what we feel,\nand yet, life keeps challenging us more.",
@@ -50,7 +50,7 @@
     },
     {
       "id": "9",
-      "name": "Alfred Orapa",
+      "name": "Rinata Sarmiento",
       "date": "2025-09-03",
       "title": "Legal problems, temporary fixes, and frustrations",
       "body": "People know what’s right, but still ignore it,\nwe're promised change but get the same results,\ntemporary solutions just delay real progress,\nand we suffer the consequences.",
@@ -65,36 +65,36 @@
       "saved": false
     },
     {
-      "id": "11",
-      "name": "Althea Bonior",
-      "date": "2025-09-03",
-      "title": "Recognizing and praising the good",
-      "body": "Some people still care and do what’s right,\nwe see kindness and honesty in them,\nthey help even when no one’s watching,\nand that gives us hope for the community.",
-      "saved": true
-    },
-    {
       "id": "12",
-      "name": "Althea Bonior",
+      "name": "loca loca",
       "date": "2025-09-03",
       "title": "Old problems still not solved",
       "body": "These issues have been around for a long time,\nand yet, no real solution has been done,\nit’s frustrating when no one listens,\neven when the problems are clear and serious.",
       "saved": true
     },
     {
-      "id": "13",
-      "title": "mag survey or not",
-      "body": "syempre mag wait tas deadline",
+      "id": 11,
+      "title": "okkkk",
+      "body": "plll",
       "name": "Alfred Orapa",
-      "date": "9/18/2025",
-      "saved": true
+      "date": "9/22/2025",
+      "saved": false
     },
     {
-      "id": "14",
-      "title": "error",
-      "body": "nag error nasad ",
-      "name": "Alfred Orapa",
-      "date": "9/18/2025",
-      "saved": true
+      "id": 12,
+      "title": "hmmm",
+      "body": "hmmmmm",
+      "name": "John Mark Logroño",
+      "date": "9/22/2025",
+      "saved": false
+    },
+    {
+      "id": 12,
+      "title": "hthth",
+      "body": "negga",
+      "name": "John Mark Logroño",
+      "date": "9/22/2025",
+      "saved": false
     }
   ]
 }

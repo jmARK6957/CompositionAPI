@@ -24,10 +24,15 @@ header {
   position: sticky;
   top: 0;
   z-index: 100;
-  background-color: #90caf9;
+  background-color: #080a0c;
+  display: flex;
+  justify-content: center; /* Center the nav horizontally */
 }
 
 nav {
+  display: flex; /* Use flexbox for layout */
+  justify-content: center; /* Center the links horizontally */
+  align-items: center; /* Center the links vertically */
   padding: 1rem 2rem;
   border-bottom: 1px solid #90caf9;
 }

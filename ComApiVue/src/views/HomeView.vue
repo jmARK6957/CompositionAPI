@@ -28,7 +28,7 @@ const postFilter = () => {
 
     <!-- error message -->
     <div v-if="postStore.errorMessage" class="error"> {{  postStore.errorMessage }}</div>
-    
+
     <div v-if="showSaved === 'all'">
       <div v-for="post in postStore.sorted" :key="post.id">
         <Wrapper>
@@ -78,7 +78,7 @@ const postFilter = () => {
   }
 
   button {
-    background: #4f8cff;
+    background: #070d18;
     color: #fff;
     border: none;
     border-radius: 6px;
@@ -102,9 +102,9 @@ const postFilter = () => {
 }
 
 .error {
-  background-color: #fee2e2;  
-  color: #b91c1c;           
-  border: 1px solid #fca5a5; 
+  background-color: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fca5a5;
   padding: 0.75rem 1rem;
   border-radius: 6px;
   font-size: 0.95rem;

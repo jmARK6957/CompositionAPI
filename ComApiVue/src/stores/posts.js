@@ -39,7 +39,7 @@ actions: {
             id: this.posts.length + 1,
             title: post.title,
             body: post.body,
-            name: 'Alfred Orapa',
+            name: 'John Mark Logroño',
             date: new Date().toLocaleDateString(),
             saved: false
         }
@@ -74,4 +74,3 @@ actions: {
     }
 }
 })
-    
